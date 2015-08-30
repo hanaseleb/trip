@@ -66,9 +66,8 @@
 * 9/5 [道の駅ニセコビュープラザ　秋の収穫・大感謝祭](http://www.niseko-ta.jp/event/detail.php?id=694)
 * [ニセコ アウトドアセンター](http://www.noc-hokkaido.jp/)
 * [グランドヒラフ](http://www.grand-hirafu.jp/summer/)
-* 
 
-![ニセコの週間天気 2015/08/30](/Users/AkihiroSutoh/Dropbox/スクリーンショット/スクリーンショット 2015-08-30 11.06.35.png)
+![ニセコの週間天気 2015/08/30](https://dl.dropboxusercontent.com/s/662uzps0hddbwmw/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202015-08-30%2011.06.35.png)
 
 
 ```
